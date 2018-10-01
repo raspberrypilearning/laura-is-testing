@@ -1,0 +1,11 @@
+title: laura-is-testing
+hero_image: images/banner.png
+description: laura-is-testing description
+version: 4
+listed: false
+copyedit: false
+last_tested: "2018-10-01"
+steps:
+  - title: Introduction
+  - title: What you will need
+  - title: Step title
